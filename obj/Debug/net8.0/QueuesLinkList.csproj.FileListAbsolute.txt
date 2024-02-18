@@ -1,0 +1,14 @@
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesLinkList\obj\Debug\net8.0\QueuesLinkList.GeneratedMSBuildEditorConfig.editorconfig
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesLinkList\obj\Debug\net8.0\QueuesLinkList.AssemblyInfoInputs.cache
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesLinkList\obj\Debug\net8.0\QueuesLinkList.AssemblyInfo.cs
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesLinkList\obj\Debug\net8.0\QueuesLinkList.csproj.CoreCompileInputs.cache
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesLinkList\bin\Debug\net8.0\QueuesLinkList.exe
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesLinkList\bin\Debug\net8.0\QueuesLinkList.deps.json
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesLinkList\bin\Debug\net8.0\QueuesLinkList.runtimeconfig.json
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesLinkList\bin\Debug\net8.0\QueuesLinkList.dll
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesLinkList\bin\Debug\net8.0\QueuesLinkList.pdb
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesLinkList\obj\Debug\net8.0\QueuesLinkList.dll
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesLinkList\obj\Debug\net8.0\refint\QueuesLinkList.dll
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesLinkList\obj\Debug\net8.0\QueuesLinkList.pdb
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesLinkList\obj\Debug\net8.0\QueuesLinkList.genruntimeconfig.cache
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesLinkList\obj\Debug\net8.0\ref\QueuesLinkList.dll
